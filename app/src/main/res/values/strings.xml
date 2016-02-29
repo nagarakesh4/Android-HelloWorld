@@ -1,5 +1,8 @@
 <resources>
   <string name="app_name">App name</string>
-  <string name="activity_name">Activity name</string>
-  <string name="inside_app_text">Venkata - San Jose!</string>
+  <string name="activity_name">Venkata Android Marshmallow</string>
+  <string name="inside_app_text">You are in Home page!</string>
+  <string name="venkata_menu">Venkata</string>
+  <string name="venkata_home_menu">Home</string>
+  <string name="venkata_menu_selected">Venkata Menu is selected</string>
 </resources>
